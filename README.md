@@ -26,4 +26,4 @@ Here are some of the technologies used for this project:
 
 | Detail 1 | Detail 2 |
 |--|--|
-| ![enter image description here](https://github.com/Fansoni/burger_truck/blob/master/assets/images/readme_details%201.png?raw=true) | ![enter image description here](https://github.com/Fansoni/burger_truck/blob/master/assets/images/readme_details%202.png?raw=true) |
+| ![enter image description here](https://github.com/Fansoni/burger_truck/blob/master/assets/images/detail1.png?raw=true) | ![enter image description here](https://github.com/Fansoni/burger_truck/blob/master/assets/images/detail2.png?raw=true) |
